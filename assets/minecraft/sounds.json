@@ -1,0 +1,32 @@
+{
+ "custom.kane": {
+  "sounds": [
+   "custom/kane"
+  ]
+ },
+ "custom.zippoopen": {
+  "sounds": [
+   "custom/zippoopen"
+  ]
+ },
+ "custom.zippofire": {
+  "sounds": [
+   "custom/zippofire"
+  ]
+ },
+ "custom.zippoclose": {
+  "sounds": [
+   "custom/zippoclose"
+  ]
+ },
+"custom.bell": {
+ "sounds": [
+  "custom/bell"
+  ]
+ },
+"custom.phoneopen": {
+ "sounds": [
+  "custom/phoneopen"
+  ]
+ }
+}
